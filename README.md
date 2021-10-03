@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/paul.w.gutierrez/viz/NYCCitibikeModule14/
 ## Overview of the Bikesharing Analysis: 
 #### The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines, Iowa is a great business proposal. With this analysis the clearer picture should convey the key stakeholders to move this business forward. This analysis will give the stakeholders an idea of the length of time bikes are checked out, show the number of bike trips for each hour of each day, show the number of bike trips for each type of user (customer/subscriber), and gender for each day of the week.
 
-### Results from my Tableau Story:
+## Results from my Tableau Story:
 #### In this visualization we see the the trips start to hit 100k starting around 7am and keep at level or above that count until 8pm - 9pm. Maintenance on the bikes would be recommendable to be done between 12am - 5am.![NYC Citibike August Analysis](https://user-images.githubusercontent.com/86431959/135735682-80336e92-7d33-49fe-a610-4e1623ea64af.png)
 
 ![NYC Citibike August Analysis (7)](https://user-images.githubusercontent.com/86431959/135767076-258ac560-969b-44b4-bce8-8db9eb0414c0.png)
