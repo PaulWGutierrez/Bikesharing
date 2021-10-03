@@ -8,11 +8,8 @@ https://public.tableau.com/app/profile/paul.w.gutierrez/viz/NYCCitibikeModule14/
 
 ## Results from my Tableau Story:
 #### In this visualization we see the the trips start to hit 100k starting around 7am and keep at level or above that count until 8pm - 9pm. Maintenance on the bikes would be recommendable to be done between 12am - 5am.![NYC Citibike August Analysis](https://user-images.githubusercontent.com/86431959/135735682-80336e92-7d33-49fe-a610-4e1623ea64af.png)
-
 #### In this visualization we see males using for of the bikes. The females used about 25% overall during August, and less then 25% the gender was not indicated. With this information an impact to have a more marketing base towards females should be done to increase female useage of the bikes.![NYC Citibike August Analysis (7)](https://user-images.githubusercontent.com/86431959/135767076-258ac560-969b-44b4-bce8-8db9eb0414c0.png)
-
 #### This visualization shows the numbers of bikes being checked out and their duration which do not last more than 10 minutes.![NYC Citibike August Analysis (2)](https://user-images.githubusercontent.com/86431959/135735738-8fc84a1c-cc7e-461a-92ac-490f1b5de58f.png)
-
 #### In this visualization it shows the number of bikes being checked out by all genders includeing the 'UNKNOWN'. The rides mainly last for about 10 minutes up to 15 minutes. Once the rides go past 15 minutes then the count of bikes being checked out start to decrease. ![NYC Citibike August Analysis (3)](https://user-images.githubusercontent.com/86431959/135735747-e6f9f79e-1818-43e2-a800-3078d035da1d.png)
 
 #### This visualization shows Monday through Friday from 7am to 9am and from 5pm to 7pm there is a peak of trips. On the weekends starting from 11am to 6pm there is a peak of trips, especially from 11am to 12pm on Saturdays.![NYC Citibike August Analysis (8)](https://user-images.githubusercontent.com/86431959/135768429-7aadccbe-93b7-4078-81f1-ad816c98d292.png)
