@@ -22,7 +22,6 @@ https://public.tableau.com/app/profile/paul.w.gutierrez/viz/NYCCitibikeModule14/
 - #### In this visualization we see female and male subscribers have the most trips, or in other words use most of the services throughout the whole week compared to the other customers (usertype).![NYC Citibike August Analysis (10)](https://user-images.githubusercontent.com/86431959/135768497-495c8a42-451a-4418-ac59-cdcd6708bbfa.png)
 ## Summary: 
 #### In summary, the results provided within the data were very much in depth. From the hours of the day given to show the ride being executed to the gender of the individual riding in New York City, I think this data is very useful for when to give certain offers, when to do maintenance, and even how many bikes to have to lend to the people. Two additional visualizations I would perform with the given dataset are to analysis if the customers and subscribers stop during their ride to get drinks or other necessities. With this information parking stations for the bikes could be placed near certain stores or locations for all customers and subscribers for their necessities. Another additional visualization is the duration people stop during each ride. With this information the cost for each ride could be customized by the owners when making a change to make more profit for the business.
-
 ##### Contact:
 ##### E-mail: gutierrezpaul7@yahoo.com
 ##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
